@@ -15,3 +15,4 @@
 
 ## Numbers
 - [x] pallindrome number 
+- [x] pallindrome between range
