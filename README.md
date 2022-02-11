@@ -12,3 +12,6 @@
 		- then type ```javac -d . ../src/io/*.java```
 		- then type ```javac -d . ../src/tkufrwrdlst/*.java```
 	- to run a class file simply type ```java tkufrwdlst.FileName``` (should be in bin directory).
+
+## Numbers
+- [x] pallindrome number 
