@@ -16,3 +16,5 @@
 ## Numbers
 - [x] pallindrome number 
 - [x] pallindrome between range
+- [ ] Primes
+	- [x] primes basics
