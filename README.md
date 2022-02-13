@@ -18,3 +18,18 @@
 - [x] pallindrome between range
 - [ ] Primes
 	- [x] primes basics
+	- [ ] optimize1
+	- [ ] optimize2
+- [x] primes in given range
+	- [ ] optimize 1
+	- [ ] best solution
+- [x] armstrongcheck
+- [x] perfect number
+- [x] Even or odd
+	- [x] bitwise
+- [x] positive or not
+	- [x] bitwise
+- [x] first n number
+	- [x] optimize
+- [x] sum of ap series
+	- [x] ooptimize  
